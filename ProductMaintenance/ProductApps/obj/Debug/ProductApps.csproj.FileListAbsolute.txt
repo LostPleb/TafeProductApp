@@ -64,3 +64,6 @@ C:\MyGST\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Pro
 C:\MyGST\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
 C:\MyGST\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 C:\MyGST\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\MyMerge\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\MyMerge\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\MyMerge\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
