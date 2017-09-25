@@ -14,10 +14,12 @@
         <Button Name="calculateButton" Content="_Calculate" HorizontalAlignment="Left" Height="37" Margin="353,30,0,0" VerticalAlignment="Top" Width="122" Click="calculateButton_Click"/>
         <Button Name="clearButton" Content="C_lear" HorizontalAlignment="Left" Height="34" Margin="353,86,0,0" VerticalAlignment="Top" Width="122" Click="clearButton_Click"/>
         <Button Name="closeButton" Content="Cl_ose" HorizontalAlignment="Left" Height="34" Margin="353,141,0,0" VerticalAlignment="Top" Width="122" Click="closeButton_Click"/>
-        <Label x:Name="label" Content="Total Charge after adding the delivery charge($25)" HorizontalAlignment="Left" Margin="46,203,0,0" VerticalAlignment="Top" Width="306" Height="43"/>
-        <TextBlock x:Name="totalChargeTextBlack" HorizontalAlignment="Left" Margin="367,208,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <Label x:Name="label1" Content="Total Charge after adding the wrap charge($5)" HorizontalAlignment="Left" Margin="48,251,0,0" VerticalAlignment="Top"/>
-        <TextBlock x:Name="totalChargeAfterWrapTextBlack" HorizontalAlignment="Left" Margin="367,251,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Total Charge after adding the delivery charge($25)" HorizontalAlignment="Left" Margin="29,187,0,0" VerticalAlignment="Top" Width="306" Height="43"/>
+        <TextBlock x:Name="totalChargeTextBlack" HorizontalAlignment="Left" Margin="353,192,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Total Charge after adding the wrap charge($5)" HorizontalAlignment="Left" Margin="29,230,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="totalChargeAfterWrapTextBlack" HorizontalAlignment="Left" Margin="353,235,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Total charge after GST @10%" HorizontalAlignment="Left" Margin="29,273,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="totalGSTTextBlack" HorizontalAlignment="Left" Margin="353,283,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
 
 
     </Grid>
